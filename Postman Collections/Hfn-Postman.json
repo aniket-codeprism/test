@@ -4,18 +4,5 @@
 		"name": "New Collection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
-	"item": [
-		{
-			"name": "New Request",
-			"id": "e0938268-db8e-46e9-bd0a-c8bf6fccb7d7",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		}
-	]
+	"item": []
 }
